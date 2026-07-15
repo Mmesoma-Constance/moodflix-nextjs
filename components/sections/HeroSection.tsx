@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Sparkles, ArrowRight } from "lucide-react";
-import HeroCarousel from "./HeroCarousel";
+// import HeroCarousel from "./HeroCarousel";
 import HeroSearch from "./HeroSearch";
 import HeroBackground from "./HeroBackground";
 import Container from "../layout/Container";

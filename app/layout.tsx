@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import { inter, fraunces } from "@/app/components/ui/fonts";
-import Navbar from "./components/layout/Navbar";
+import { inter, fraunces } from "../components/ui/fonts";
+import Navbar from "../components/layout/Navbar";
 
 export const metadata: Metadata = {
   title: "MoodFlix",
